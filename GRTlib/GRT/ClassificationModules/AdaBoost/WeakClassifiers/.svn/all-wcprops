@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/313/GRT/ClassificationModules/AdaBoost/WeakClassifiers
+END
+WeakClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/311/GRT/ClassificationModules/AdaBoost/WeakClassifiers/WeakClassifier.cpp
+END
+WeakClassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/313/GRT/ClassificationModules/AdaBoost/WeakClassifiers/WeakClassifier.h
+END
+RadialBasisFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/311/GRT/ClassificationModules/AdaBoost/WeakClassifiers/RadialBasisFunction.cpp
+END
+DecisionStump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/311/GRT/ClassificationModules/AdaBoost/WeakClassifiers/DecisionStump.cpp
+END
+RadialBasisFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/313/GRT/ClassificationModules/AdaBoost/WeakClassifiers/RadialBasisFunction.h
+END
+DecisionStump.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/313/GRT/ClassificationModules/AdaBoost/WeakClassifiers/DecisionStump.h
+END

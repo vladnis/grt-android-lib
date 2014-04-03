@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/318/GRT/CoreModules
+END
+FeatureExtraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/317/GRT/CoreModules/FeatureExtraction.h
+END
+MLBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/318/GRT/CoreModules/MLBase.cpp
+END
+GestureRecognitionPipeline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/311/GRT/CoreModules/GestureRecognitionPipeline.cpp
+END
+Clusterer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/317/GRT/CoreModules/Clusterer.cpp
+END
+MLBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/317/GRT/CoreModules/MLBase.h
+END
+GestureRecognitionPipeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/313/GRT/CoreModules/GestureRecognitionPipeline.h
+END
+Clusterer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/317/GRT/CoreModules/Clusterer.h
+END
+PostProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/317/GRT/CoreModules/PostProcessing.cpp
+END
+PreProcessing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/317/GRT/CoreModules/PreProcessing.cpp
+END
+Context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/317/GRT/CoreModules/Context.cpp
+END
+Classifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/311/GRT/CoreModules/Classifier.cpp
+END
+PostProcessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/GRT/CoreModules/PostProcessing.h
+END
+GRTBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/317/GRT/CoreModules/GRTBase.cpp
+END
+PreProcessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/GRT/CoreModules/PreProcessing.h
+END
+Classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/317/GRT/CoreModules/Classifier.h
+END
+Regressifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/311/GRT/CoreModules/Regressifier.cpp
+END
+Context.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/317/GRT/CoreModules/Context.h
+END
+FeatureExtraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/317/GRT/CoreModules/FeatureExtraction.cpp
+END
+GRTBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/317/GRT/CoreModules/GRTBase.h
+END
+Regressifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/317/GRT/CoreModules/Regressifier.h
+END

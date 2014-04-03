@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/313/GRT/FeatureExtractionModules/FFT
+END
+FFTFeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/313/GRT/FeatureExtractionModules/FFT/FFTFeatures.cpp
+END
+FFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/313/GRT/FeatureExtractionModules/FFT/FFT.cpp
+END
+FFTFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/313/GRT/FeatureExtractionModules/FFT/FFTFeatures.h
+END
+FFT.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/313/GRT/FeatureExtractionModules/FFT/FFT.h
+END
+FastFourierTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/304/GRT/FeatureExtractionModules/FFT/FastFourierTransform.cpp
+END
+FastFourierTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/311/GRT/FeatureExtractionModules/FFT/FastFourierTransform.h
+END

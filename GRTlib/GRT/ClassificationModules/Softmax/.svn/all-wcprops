@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/313/GRT/ClassificationModules/Softmax
+END
+Softmax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/310/GRT/ClassificationModules/Softmax/Softmax.cpp
+END
+Softmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/313/GRT/ClassificationModules/Softmax/Softmax.h
+END
+SoftmaxModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/313/GRT/ClassificationModules/Softmax/SoftmaxModel.h
+END

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/324/GRT/Util
+END
+LabelledTimeSeriesClassificationSampleTrimmer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/252/GRT/Util/LabelledTimeSeriesClassificationSampleTrimmer.cpp
+END
+RangeTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/313/GRT/Util/RangeTracker.h
+END
+TestingLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/201/GRT/Util/TestingLog.cpp
+END
+PeakDetection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/305/GRT/Util/PeakDetection.cpp
+END
+Cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/151/GRT/Util/Cholesky.cpp
+END
+EigenvalueDecomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/229/GRT/Util/EigenvalueDecomposition.cpp
+END
+TrainingLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/278/GRT/Util/TrainingLog.h
+END
+LUDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/248/GRT/Util/LUDecomposition.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/313/GRT/Util/Util.h
+END
+TestResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/313/GRT/Util/TestResult.h
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/287/GRT/Util/Node.cpp
+END
+ClassTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/262/GRT/Util/ClassTracker.h
+END
+DebugLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/57/GRT/Util/DebugLog.cpp
+END
+Observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/313/GRT/Util/Observer.h
+END
+ClassificationResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/313/GRT/Util/ClassificationResult.h
+END
+ErrorLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/278/GRT/Util/ErrorLog.h
+END
+SVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/229/GRT/Util/SVD.h
+END
+InfoLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/293/GRT/Util/InfoLog.h
+END
+ThresholdCrossingDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/313/GRT/Util/ThresholdCrossingDetector.h
+END
+TrainingDataRecordingTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/145/GRT/Util/TrainingDataRecordingTimer.cpp
+END
+MatrixDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/281/GRT/Util/MatrixDouble.h
+END
+GRTTypedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/251/GRT/Util/GRTTypedefs.h
+END
+RangeTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/22/GRT/Util/RangeTracker.cpp
+END
+TimeStamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/324/GRT/Util/TimeStamp.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/313/GRT/Util/Matrix.h
+END
+GRTCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/301/GRT/Util/GRTCommon.h
+END
+WarningLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/278/GRT/Util/WarningLog.h
+END
+LUDecomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/249/GRT/Util/LUDecomposition.cpp
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/301/GRT/Util/Util.cpp
+END
+TrainingLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/GRT/Util/TrainingLog.cpp
+END
+TrainingResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/313/GRT/Util/TrainingResult.h
+END
+IndexedDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/229/GRT/Util/IndexedDouble.h
+END
+LabelledTimeSeriesClassificationSampleTrimmer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/313/GRT/Util/LabelledTimeSeriesClassificationSampleTrimmer.h
+END
+GRTVersionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/315/GRT/Util/GRTVersionInfo.h
+END
+PeakDetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/313/GRT/Util/PeakDetection.h
+END
+TestingLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/278/GRT/Util/TestingLog.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/313/GRT/Util/Random.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/281/GRT/Util/Timer.h
+END
+Cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/313/GRT/Util/Cholesky.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/293/GRT/Util/Log.h
+END
+EigenvalueDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/229/GRT/Util/EigenvalueDecomposition.h
+END
+ObserverManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/278/GRT/Util/ObserverManager.h
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/313/GRT/Util/Node.h
+END
+ErrorLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/GRT/Util/ErrorLog.cpp
+END
+SVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/229/GRT/Util/SVD.cpp
+END
+DebugLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/278/GRT/Util/DebugLog.h
+END
+InfoLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/293/GRT/Util/InfoLog.cpp
+END
+MinMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/229/GRT/Util/MinMax.h
+END
+ThresholdCrossingDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/305/GRT/Util/ThresholdCrossingDetector.cpp
+END
+MatrixDouble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/310/GRT/Util/MatrixDouble.cpp
+END
+FileParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/285/GRT/Util/FileParser.h
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/313/GRT/Util/CircularBuffer.h
+END
+WarningLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/22/GRT/Util/WarningLog.cpp
+END
+TestInstanceResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/313/GRT/Util/TestInstanceResult.h
+END
+TrainingDataRecordingTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/313/GRT/Util/TrainingDataRecordingTimer.h
+END

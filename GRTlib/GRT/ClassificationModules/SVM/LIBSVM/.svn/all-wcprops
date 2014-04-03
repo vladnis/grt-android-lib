@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/286/GRT/ClassificationModules/SVM/LIBSVM
+END
+libsvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/GRT/ClassificationModules/SVM/LIBSVM/libsvm.cpp
+END
+libsvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/286/GRT/ClassificationModules/SVM/LIBSVM/libsvm.h
+END
