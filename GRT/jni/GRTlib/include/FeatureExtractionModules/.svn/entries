@@ -1,0 +1,55 @@
+10
+
+dir
+327
+http://gesture-recognition-toolkit.googlecode.com/svn/GRT/FeatureExtractionModules
+http://gesture-recognition-toolkit.googlecode.com/svn
+
+
+
+2014-02-28T19:37:22.511394Z
+320
+nickgillian@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7119413-dbb8-8e7e-ee4e-9c4485486526
+
+FFT
+dir
+
+MovementTrajectoryFeatures
+dir
+
+KMeansQuantizer
+dir
+
+SOMQuantizer
+dir
+
+MovementIndex
+dir
+
+PCA
+dir
+
+TimeseriesBuffer
+dir
+
+TimeDomainFeatures
+dir
+
+ZeroCrossingCounter
+dir
+

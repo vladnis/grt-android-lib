@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/313/GRT/PreProcessingModules
+END
+Derivative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/312/GRT/PreProcessingModules/Derivative.cpp
+END
+LowPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/313/GRT/PreProcessingModules/LowPassFilter.h
+END
+MovingAverageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/313/GRT/PreProcessingModules/MovingAverageFilter.h
+END
+Derivative.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/313/GRT/PreProcessingModules/Derivative.h
+END
+HighPassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/312/GRT/PreProcessingModules/HighPassFilter.cpp
+END
+HighPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/313/GRT/PreProcessingModules/HighPassFilter.h
+END
+SavitzkyGolayFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/GRT/PreProcessingModules/SavitzkyGolayFilter.cpp
+END
+FIRFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/312/GRT/PreProcessingModules/FIRFilter.cpp
+END
+DeadZone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/312/GRT/PreProcessingModules/DeadZone.cpp
+END
+FIRFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/313/GRT/PreProcessingModules/FIRFilter.h
+END
+DoubleMovingAverageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/312/GRT/PreProcessingModules/DoubleMovingAverageFilter.cpp
+END
+SavitzkyGolayFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/313/GRT/PreProcessingModules/SavitzkyGolayFilter.h
+END
+LowPassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/312/GRT/PreProcessingModules/LowPassFilter.cpp
+END
+DeadZone.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/313/GRT/PreProcessingModules/DeadZone.h
+END
+MovingAverageFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/GRT/PreProcessingModules/MovingAverageFilter.cpp
+END
+DoubleMovingAverageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/313/GRT/PreProcessingModules/DoubleMovingAverageFilter.h
+END
